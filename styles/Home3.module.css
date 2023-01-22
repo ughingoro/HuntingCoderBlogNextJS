@@ -1,0 +1,22 @@
+.con{
+    background-color: greenyellow;
+    
+}
+
+.mainnav{
+    background-color: greenyellow;
+
+}
+
+.mainnav ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 2rem;
+  }
+  
+  .mainnav ul li{
+    margin: 0 24px;
+    list-style: none;
+    font-weight: bold;
+  }
